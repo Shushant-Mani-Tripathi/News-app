@@ -1,0 +1,2 @@
+# News-app
+Inshort Clone
